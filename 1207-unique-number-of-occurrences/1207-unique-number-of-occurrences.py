@@ -27,6 +27,35 @@ class Solution:
             return True
         else:
             return False
+
+
+other methods:
+-----------------
+ memo = []
+        for i in Counter(arr).values():
+
+            if i in memo: return False
+            else:   memo.append(i)
+
+        return True
+
+----------------------
+
+class Solution:
+    def uniqueOccurrences(self, arr: List[int]) -> bool:
+
+        return len(set(count := Counter(arr).values())) == len(count)
+
+---------------------------
+class Solution:
+    def uniqueOccurrences(self, arr: List[int]) -> bool:
+        memo = []
+        for i in set(arr):
+            i = arr.count(i)
+            if i in memo: return False
+            else:   memo.append(i)
+
+        return True
                     
                 
             

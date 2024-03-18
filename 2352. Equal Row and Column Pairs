@@ -1,0 +1,13 @@
+class Solution:
+    def equalPairs(self, grid: List[List[int]]) -> int:
+        #dict for rows
+        rowcount=defaultdict(int)
+        
+        count=0
+        #taking the count of rows repetition
+        for row in grid:
+            rowcount[tuple(row)]+=1
+        #zip(*matrix) function makes transpose of the matrix
+        for column in zip(*grid):
+            count+=rowcount[column]
+        return count

@@ -1,3 +1,5 @@
+#https://www.youtube.com/watch?v=i340M1N4i8Y&t=975s
+
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
         first = second = float('inf') 

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIMANASA/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/SAIMANASA/Leetcode/tree/master/0443-string-compression) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

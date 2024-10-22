@@ -1,6 +1,5 @@
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
-        #frontsum=[nums[0]]
         frontsum=[nums[0]]
         for i in range(1,len(nums)):
             frontsum.append(nums[i]+frontsum[i-1])
@@ -14,7 +13,6 @@ class Solution:
             if frontsum[i]==backsum[i]:
                 return i
         return -1
-
 
 
         

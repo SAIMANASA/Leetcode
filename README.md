@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/SAIMANASA/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SAIMANASA/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1833-find-the-highest-altitude](https://github.com/SAIMANASA/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/SAIMANASA/Leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->

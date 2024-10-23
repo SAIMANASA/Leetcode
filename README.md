@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/SAIMANASA/Leetcode/tree/master/0443-string-compression) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/SAIMANASA/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SAIMANASA/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+## Sorting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->

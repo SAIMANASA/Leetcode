@@ -6,7 +6,7 @@ class Solution:
                 result.pop()
             else:
                 result.append(i)
-        print(result)
+        # return ''.join(result) or as below
         if len(s)==0 or len(result)==0:
             return ""
         else:

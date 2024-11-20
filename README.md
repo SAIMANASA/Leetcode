@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/SAIMANASA/Leetcode/tree/master/0443-string-compression) |
+| [1894-merge-strings-alternately](https://github.com/SAIMANASA/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/SAIMANASA/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/SAIMANASA/Leetcode/tree/master/0443-string-compression) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1894-merge-strings-alternately](https://github.com/SAIMANASA/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/SAIMANASA/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |

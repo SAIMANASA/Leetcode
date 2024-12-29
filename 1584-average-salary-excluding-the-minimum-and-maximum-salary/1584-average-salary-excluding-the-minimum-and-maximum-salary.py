@@ -9,5 +9,21 @@ class Solution:
             sum1+=salary1[i]
         return (sum1/count)
 
+
+"""
+class Solution(object):
+    def average(self, salary):
+        return float(sum(sorted(salary)[1:-1]))/float(len(salary)-2)
+        or
+                 salary.remove(max(salary))
+        salary.remove(min(salary))
+        return sum(salary)/len(salary)
+        or  
+      def average(self, salary: List[int]) -> float:
+        salary.sort()
+        return (sum(salary)-salary[0]-salary[-1])/(len(salary)-2) 
+        
+    """
+
     
         

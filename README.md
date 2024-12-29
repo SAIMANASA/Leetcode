@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIMANASA/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SAIMANASA/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SAIMANASA/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SAIMANASA/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/SAIMANASA/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2232-adding-spaces-to-a-string](https://github.com/SAIMANASA/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SAIMANASA/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |

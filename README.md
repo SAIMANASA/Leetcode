@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SAIMANASA/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SAIMANASA/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/SAIMANASA/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SAIMANASA/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2232-adding-spaces-to-a-string](https://github.com/SAIMANASA/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/SAIMANASA/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Greedy

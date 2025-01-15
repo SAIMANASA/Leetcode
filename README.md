@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SAIMANASA/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIMANASA/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0575-distribute-candies](https://github.com/SAIMANASA/Leetcode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/SAIMANASA/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SAIMANASA/Leetcode/tree/master/0735-asteroid-collision) |
 | [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/SAIMANASA/Leetcode/tree/master/0575-distribute-candies) |
 | [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIMANASA/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SAIMANASA/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/SAIMANASA/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/SAIMANASA/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SAIMANASA/Leetcode/tree/master/0735-asteroid-collision) |
+| [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIMANASA/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SAIMANASA/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SAIMANASA/Leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/SAIMANASA/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/SAIMANASA/Leetcode/tree/master/0443-string-compression) |
+| [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1524-string-matching-in-an-array](https://github.com/SAIMANASA/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SAIMANASA/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
+| [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIMANASA/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SAIMANASA/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |

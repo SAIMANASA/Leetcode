@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SAIMANASA/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
+| [1276-closest-divisors](https://github.com/SAIMANASA/Leetcode/tree/master/1276-closest-divisors) |
 ## Dynamic Programming
 |  |
 | ------- |

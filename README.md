@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIMANASA/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SAIMANASA/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1449-print-words-vertically](https://github.com/SAIMANASA/Leetcode/tree/master/1449-print-words-vertically) |
 | [1524-string-matching-in-an-array](https://github.com/SAIMANASA/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SAIMANASA/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SAIMANASA/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/SAIMANASA/Leetcode/tree/master/0443-string-compression) |
 | [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/SAIMANASA/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1449-print-words-vertically](https://github.com/SAIMANASA/Leetcode/tree/master/1449-print-words-vertically) |
 | [1524-string-matching-in-an-array](https://github.com/SAIMANASA/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SAIMANASA/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SAIMANASA/Leetcode/tree/master/0735-asteroid-collision) |
+| [1449-print-words-vertically](https://github.com/SAIMANASA/Leetcode/tree/master/1449-print-words-vertically) |
 | [2232-adding-spaces-to-a-string](https://github.com/SAIMANASA/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/SAIMANASA/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/SAIMANASA/Leetcode/tree/master/2470-removing-stars-from-a-string) |

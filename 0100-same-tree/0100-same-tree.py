@@ -15,5 +15,7 @@ class Solution:
         # Check if values are equal and recursively check left and right subtrees
         if p.val == q.val:
             return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+
+        # return p.__str__() == q.__str__()  
        
         

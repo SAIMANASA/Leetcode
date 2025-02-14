@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1276-closest-divisors](https://github.com/SAIMANASA/Leetcode/tree/master/1276-closest-divisors) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SAIMANASA/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/SAIMANASA/Leetcode/tree/master/0461-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/SAIMANASA/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SAIMANASA/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Backtracking
 |  |
 | ------- |

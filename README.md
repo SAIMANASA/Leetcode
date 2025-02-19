@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/SAIMANASA/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1449-print-words-vertically](https://github.com/SAIMANASA/Leetcode/tree/master/1449-print-words-vertically) |
 | [1524-string-matching-in-an-array](https://github.com/SAIMANASA/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1660-thousand-separator](https://github.com/SAIMANASA/Leetcode/tree/master/1660-thousand-separator) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SAIMANASA/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/SAIMANASA/Leetcode/tree/master/1894-merge-strings-alternately) |

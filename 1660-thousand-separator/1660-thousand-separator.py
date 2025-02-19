@@ -19,5 +19,15 @@ class Solution:
                 result+=i
         return result[::-1]
 
-
+"""
+or var1 in range(len(n)):
+                if var1%3==0:
+                    s+='.'
+                    s+=n[var1]
+                else:
+                    s+=n[var1]
+        return s[::-1].strip('.')
+ or
+ return "".join([val + "."  if index % 3 == 0 else val for index, val in enumerate([*str(n)[::-1]])][::-1])[:-1]       
+"""
         

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1276-closest-divisors](https://github.com/SAIMANASA/Leetcode/tree/master/1276-closest-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SAIMANASA/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1806-count-of-matches-in-tournament](https://github.com/SAIMANASA/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/SAIMANASA/Leetcode/tree/master/0735-asteroid-collision) |
 | [1449-print-words-vertically](https://github.com/SAIMANASA/Leetcode/tree/master/1449-print-words-vertically) |
+| [1806-count-of-matches-in-tournament](https://github.com/SAIMANASA/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2232-adding-spaces-to-a-string](https://github.com/SAIMANASA/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/SAIMANASA/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/SAIMANASA/Leetcode/tree/master/2470-removing-stars-from-a-string) |

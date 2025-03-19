@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SAIMANASA/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SAIMANASA/Leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/SAIMANASA/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/SAIMANASA/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SAIMANASA/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAIMANASA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SAIMANASA/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/SAIMANASA/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/SAIMANASA/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAIMANASA/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SAIMANASA/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0229-majority-element-ii) |

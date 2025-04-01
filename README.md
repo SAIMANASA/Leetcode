@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SAIMANASA/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SAIMANASA/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SAIMANASA/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/SAIMANASA/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/SAIMANASA/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/SAIMANASA/Leetcode/tree/master/0443-string-compression) |
 | [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SAIMANASA/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/SAIMANASA/Leetcode/tree/master/0383-ransom-note) |
 | [0491-non-decreasing-subsequences](https://github.com/SAIMANASA/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/SAIMANASA/Leetcode/tree/master/0575-distribute-candies) |
 | [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SAIMANASA/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/SAIMANASA/Leetcode/tree/master/0383-ransom-note) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |

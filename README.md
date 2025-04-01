@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SAIMANASA/Leetcode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/SAIMANASA/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SAIMANASA/Leetcode/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/SAIMANASA/Leetcode/tree/master/0792-binary-search) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/SAIMANASA/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAIMANASA/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SAIMANASA/Leetcode/tree/master/0278-first-bad-version) |
+| [0792-binary-search](https://github.com/SAIMANASA/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SAIMANASA/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sliding Window

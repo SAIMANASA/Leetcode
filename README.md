@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAIMANASA/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/SAIMANASA/Leetcode/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SAIMANASA/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sliding Window
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SAIMANASA/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SAIMANASA/Leetcode/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SAIMANASA/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

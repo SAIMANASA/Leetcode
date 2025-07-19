@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SAIMANASA/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIMANASA/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/SAIMANASA/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/SAIMANASA/Leetcode/tree/master/0575-distribute-candies) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SAIMANASA/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SAIMANASA/Leetcode/tree/master/0383-ransom-note) |
 | [0491-non-decreasing-subsequences](https://github.com/SAIMANASA/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/SAIMANASA/Leetcode/tree/master/0575-distribute-candies) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SAIMANASA/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SAIMANASA/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SAIMANASA/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SAIMANASA/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SAIMANASA/Leetcode/tree/master/0383-ransom-note) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SAIMANASA/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
@@ -218,8 +222,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SAIMANASA/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SAIMANASA/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SAIMANASA/Leetcode/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

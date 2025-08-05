@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SAIMANASA/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SAIMANASA/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SAIMANASA/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAIMANASA/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SAIMANASA/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SAIMANASA/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAIMANASA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SAIMANASA/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SAIMANASA/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SAIMANASA/Leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/SAIMANASA/Leetcode/tree/master/0057-insert-interval) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SAIMANASA/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SAIMANASA/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAIMANASA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SAIMANASA/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/SAIMANASA/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAIMANASA/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/SAIMANASA/Leetcode/tree/master/0443-string-compression) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SAIMANASA/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SAIMANASA/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/SAIMANASA/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/SAIMANASA/Leetcode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/SAIMANASA/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SAIMANASA/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

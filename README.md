@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SAIMANASA/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SAIMANASA/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SAIMANASA/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/SAIMANASA/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/SAIMANASA/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/SAIMANASA/Leetcode/tree/master/0443-string-compression) |
 | [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SAIMANASA/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/SAIMANASA/Leetcode/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/SAIMANASA/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/SAIMANASA/Leetcode/tree/master/0575-distribute-candies) |
 | [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SAIMANASA/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/SAIMANASA/Leetcode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SAIMANASA/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SAIMANASA/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SAIMANASA/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/SAIMANASA/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/SAIMANASA/Leetcode/tree/master/0461-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/SAIMANASA/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SAIMANASA/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |

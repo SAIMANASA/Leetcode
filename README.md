@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIMANASA/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SAIMANASA/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SAIMANASA/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1449-print-words-vertically](https://github.com/SAIMANASA/Leetcode/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SAIMANASA/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/SAIMANASA/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SAIMANASA/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SAIMANASA/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |

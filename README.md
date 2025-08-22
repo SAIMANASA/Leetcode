@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SAIMANASA/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAIMANASA/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SAIMANASA/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SAIMANASA/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SAIMANASA/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SAIMANASA/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/SAIMANASA/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SAIMANASA/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SAIMANASA/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SAIMANASA/Leetcode/tree/master/0268-missing-number) |

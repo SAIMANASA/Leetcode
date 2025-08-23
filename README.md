@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SAIMANASA/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SAIMANASA/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/SAIMANASA/Leetcode/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/SAIMANASA/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SAIMANASA/Leetcode/tree/master/0443-string-compression) |
 | [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/SAIMANASA/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAIMANASA/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/SAIMANASA/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/SAIMANASA/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SAIMANASA/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SAIMANASA/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SAIMANASA/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SAIMANASA/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SAIMANASA/Leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/SAIMANASA/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/SAIMANASA/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/SAIMANASA/Leetcode/tree/master/0575-distribute-candies) |
 | [0822-unique-morse-code-words](https://github.com/SAIMANASA/Leetcode/tree/master/0822-unique-morse-code-words) |

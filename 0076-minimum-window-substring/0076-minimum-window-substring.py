@@ -45,7 +45,7 @@ class Solution:
                 have+=1
            
             while have == need:
-                print("ebter1")
+               
 
                 if (r-l+1) < reslen:
                     res=[l,r]

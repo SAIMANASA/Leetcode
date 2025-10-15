@@ -18,6 +18,24 @@ class Solution:
         return final
         """
 
+        """
+        import heapq
+        from collections import defaultdict 
+        class Solution:
+        def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+            counts = defaultdict(int)
+            for n in nums:
+                counts[n]+=1
+            #minheap 
+            heap=[]
+            for key, val in counts.items():
+                heapq.heappush(heap,(val,key))
+                if len(heap) > k:
+                    heapq.heappop(heap)
+            return [key for (val,key) in heap]
+        """
+
+
         count = {}
         freq = [[] for i in range(len(nums)+1)]
         for n in nums:

@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAIMANASA/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SAIMANASA/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SAIMANASA/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/SAIMANASA/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/SAIMANASA/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0229-majority-element-ii) |
@@ -276,4 +277,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SAIMANASA/Leetcode/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SAIMANASA/Leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SAIMANASA/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SAIMANASA/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

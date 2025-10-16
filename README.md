@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SAIMANASA/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAIMANASA/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SAIMANASA/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/SAIMANASA/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SAIMANASA/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SAIMANASA/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SAIMANASA/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/SAIMANASA/Leetcode/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/SAIMANASA/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -246,11 +248,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SAIMANASA/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/SAIMANASA/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SAIMANASA/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SAIMANASA/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/SAIMANASA/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SAIMANASA/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -296,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SAIMANASA/Leetcode/tree/master/0146-lru-cache) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SAIMANASA/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
